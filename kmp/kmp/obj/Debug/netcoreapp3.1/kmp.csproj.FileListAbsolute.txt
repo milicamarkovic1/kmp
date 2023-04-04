@@ -1,0 +1,14 @@
+C:\Users\WIN10_20H2_64UE\source\repos\kmp\kmp\bin\Debug\netcoreapp3.1\kmp.exe
+C:\Users\WIN10_20H2_64UE\source\repos\kmp\kmp\bin\Debug\netcoreapp3.1\kmp.deps.json
+C:\Users\WIN10_20H2_64UE\source\repos\kmp\kmp\bin\Debug\netcoreapp3.1\kmp.runtimeconfig.json
+C:\Users\WIN10_20H2_64UE\source\repos\kmp\kmp\bin\Debug\netcoreapp3.1\kmp.runtimeconfig.dev.json
+C:\Users\WIN10_20H2_64UE\source\repos\kmp\kmp\bin\Debug\netcoreapp3.1\kmp.dll
+C:\Users\WIN10_20H2_64UE\source\repos\kmp\kmp\bin\Debug\netcoreapp3.1\kmp.pdb
+C:\Users\WIN10_20H2_64UE\source\repos\kmp\kmp\obj\Debug\netcoreapp3.1\kmp.csproj.AssemblyReference.cache
+C:\Users\WIN10_20H2_64UE\source\repos\kmp\kmp\obj\Debug\netcoreapp3.1\kmp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10_20H2_64UE\source\repos\kmp\kmp\obj\Debug\netcoreapp3.1\kmp.AssemblyInfoInputs.cache
+C:\Users\WIN10_20H2_64UE\source\repos\kmp\kmp\obj\Debug\netcoreapp3.1\kmp.AssemblyInfo.cs
+C:\Users\WIN10_20H2_64UE\source\repos\kmp\kmp\obj\Debug\netcoreapp3.1\kmp.csproj.CoreCompileInputs.cache
+C:\Users\WIN10_20H2_64UE\source\repos\kmp\kmp\obj\Debug\netcoreapp3.1\kmp.dll
+C:\Users\WIN10_20H2_64UE\source\repos\kmp\kmp\obj\Debug\netcoreapp3.1\kmp.pdb
+C:\Users\WIN10_20H2_64UE\source\repos\kmp\kmp\obj\Debug\netcoreapp3.1\kmp.genruntimeconfig.cache
